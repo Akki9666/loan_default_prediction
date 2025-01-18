@@ -1,0 +1,21 @@
+user_id,user_name,gender,age,employee_type,marital_status,user_income,account_number,loan_count,pan_card_number,bank_name,loan_type,annual_interest_rate,loan_status,loan_amount,loan_tenure_years,remaining_loan_amount,remaining_loan_years,EMI,from_month,from_year,amount_paid,month_not -paid,present_month_payment,actual_credit_score,credit_history,credit_score_add,total_credit_score
+21,Raghav Mehta,Male,30,Salary,Single,720000,123457000000,2,ABCDE1234F,State Bank of India,Home Loan,7.6%,Active,3500000,15,2500000,10,,February,2023,700000,0,Yes,700,Good,5,705
+22,Tanya Reddy,Female,34,Self-employed,Married,850000,987654000000,1,XYZAB9876G,Punjab National Bank,Car Loan,8.1%,Active,600000,6,350000,3,,January,2022,250000,0,Yes,720,Good,10,730
+23,Prateek Shah,Male,41,Salary,Married,1100000,564738000000,1,LMNOP5678H,Bank of Baroda,Personal,8.5%,Active,450000,4,300000,1,,March,2022,150000,0,Yes,680,Fair,5,685
+24,Aditi Mehta,Female,29,Self-employed,Single,950000,789654000000,2,QWERT4321J,Canara Bank,Education,7.2%,Active,800000,5,600000,2,,November,2021,350000,1,Yes,740,Good,10,750
+25,Arjun Kumar,Male,38,Salary,Married,1250000,678905000000,2,ASDFG2345K,Union Bank of India,Home Loan,9%,Active,5500000,20,4000000,15,,January,2021,2000000,0,Yes,720,Good,8,728
+26,Priya Singh,Female,36,Self-employed,Married,800000,112233000000,1,HJJKL9876B,Indian Overseas Bank,Car Loan,8.4%,Active,750000,4,500000,2,,February,2022,200000,0,Yes,690,Fair,6,696
+27,Vishal Joshi,Male,33,Salary,Single,700000,223345000000,1,POIUY1234V,Central Bank of India,Personal,8.6%,Active,500000,3,300000,1,,September,2023,100000,1,No,670,Fair,4,674
+28,Deepa Yadav,Female,41,Salary,Married,1000000,334456000000,2,MNBVC5678D,UCO Bank,Home Loan,6.9%,Active,4500000,15,3000000,10,,April,2020,1500000,0,Yes,760,Excellent,12,772
+29,Ravi Sharma,Male,29,Self-employed,Single,900000,445567000000,1,ZXCVB2341X,Bank of Maharashtra,Car Loan,7.8%,Active,900000,5,600000,3,,March,2022,350000,0,Yes,710,Good,7,717
+30,Aakash Reddy,Male,39,Salary,Married,1200000,556678000000,1,LKJHG8765C,State Bank of India,Education,8.1%,Active,300000,4,150000,2,,May,2021,250000,0,Yes,780,Excellent,8,788
+31,Sonal Gupta,Female,34,Self-employed,Married,850000,667789000000,1,ABCDE5678P,Punjab National Bank,Personal,7.5%,Active,600000,3,400000,2,,June,2023,200000,0,Yes,680,Fair,6,686
+32,Vikram Singh,Male,31,Salary,Single,800000,778899000000,2,FGHIJ1234Q,Bank of Baroda,Home Loan,6.7%,Active,3000000,10,1500000,7,,January,2022,500000,1,Yes,720,Good,10,730
+33,Preeti Rani,Female,28,Salary,Married,600000,889900000000,1,LMNOP8765Z,Canara Bank,Car Loan,8.3%,Active,750000,5,500000,3,,November,2023,350000,2,Yes,670,Fair,4,674
+34,Ajay Kumar,Male,40,Self-employed,Married,1400000,990011000000,2,QRSTU4321T,Union Bank of India,Education,7.2%,Active,500000,4,300000,2,,October,2021,250000,0,Yes,700,Good,5,705
+35,Sakshi Yadav,Female,37,Salary,Married,950000,101112000000,1,WXYZC5678L,Indian Overseas Bank,Home Loan,9.1%,Active,6000000,15,4500000,12,,May,2020,1200000,0,Yes,740,Good,8,748
+36,Rajesh Verma,Male,29,Self-employed,Single,800000,121314000000,1,UVWXY9876S,Central Bank of India,Car Loan,7.8%,Active,500000,3,300000,2,,February,2022,200000,0,Yes,690,Fair,6,696
+37,Neha Sharma,Female,35,Salary,Married,1100000,909877000000,1,JKLMN2345D,Punjab National Bank,Education,8.4%,Active,700000,4,400000,2,,August,2021,300000,0,Yes,720,Good,8,728
+38,Tarun Nair,Male,32,Self-employed,Married,950000,654321000000,1,RSTUV3456F,Bank of Maharashtra,Home Loan,6.5%,Active,3200000,10,2000000,7,,September,2022,1000000,0,Yes,780,Excellent,12,792
+39,Simran Kaur,Female,27,Salary,Single,650000,765432000000,1,OPQRS8765A,UCO Bank,Car Loan,8.9%,Active,400000,5,250000,3,,January,2023,150000,1,Yes,670,Fair,4,674
+40,Manish Choudhary,Male,40,Self-employed,Married,1300000,112346000000,2,ABCDE0987J,State Bank of India,Education,9%,Active,1000000,6,800000,4,,June,2021,500000,0,Yes,740,Good,8,748

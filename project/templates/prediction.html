@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Prediction Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <h1>Loan Default Prediction</h1>
+        </div>
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="./services">Services</a></li>
+            <li><a href="./contact">Contact</a></li>
+        </ul>
+    </div>
+
+    <div class="prediction-results">
+        <h2>Loan Application Details</h2>
+        
+        <div class="user-details">
+            <h3>Personal Information</h3>
+            <p><strong>Name:</strong> {{ application.user_name }}</p>
+            <p><strong>PAN Card:</strong> {{ application.pan_card_number }}</p>
+            <p><strong>Bank:</strong> {{ application.bank_name }}</p>
+            <p><strong>Employment:</strong> {{ application.employee_type }}</p>
+            <p><strong>Marital Status:</strong> {{ application.marital_status }}</p>
+        </div>
+
+        <div class="loan-details">
+            <h3>Loan Information</h3>
+            <p><strong>Loan Type:</strong> {{ application.loan_type }}</p>
+            <p><strong>Loan Amount:</strong> ₹{{ "{:,.2f}".format(application.loan_amount) }}</p>
+            <p><strong>Interest Rate:</strong> {{ application.annual_interest_rate }}%</p>
+            <p><strong>Tenure:</strong> {{ application.loan_tenure_years }} years</p>
+            <p><strong>Credit Score:</strong> {{ application.credit_score }}</p>
+        </div>
+
+        <div class="prediction-result">
+            <h3>Predicted Monthly EMI</h3>
+            <p class="emi-amount">₹{{ "{:,.2f}".format(emi) }}</p>
+        </div>
+
+        <div class="actions">
+            <a href="{{ url_for('details') }}" class="button">New Application</a>
+            <a href="{{ url_for('logout') }}" class="button">Logout</a>
+        </div>
+    </div>
+</body>
+</html>

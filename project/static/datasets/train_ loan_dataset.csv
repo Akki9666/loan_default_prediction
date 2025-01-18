@@ -1,0 +1,21 @@
+user_id,user_name,gender,age,employee_type,marital_status,user_income,account_number,loan_count,pan_card_number,bank_name,loan_type,annual_interest_rate,loan_status,loan_amount,loan_tenure_years,remaining_loan_amount,remaining_loan_years,EMI,started_date,amount_paid,month_not_paid,present_month_payment,actual_credit_score,credit_history,credit_score_add,total_credit_score,present_date
+1,Ramesh Kumar,Male,35,Salary,Married,900000,123457000000,2,ABCDE1234F,State Bank of India,Home Loan,7.5%,Active,5000000,20,3500000,15,45000,20/03/2021,1845000,0,Yes,750,Good,10,760,28/08/2024
+2,Sunita Devi,Female,29,Self-employed,Single,600000,987654000000,1,XYZAB9876G,Punjab National Bank,Car Loan,8%,Active,800000,7,500000,4,10200,28/06/2022,244200,1,No,680,Fair,5,685,11/05/2024
+3,Amit Sharma,Male,42,Salary,Married,1200000,564738000000,3,LMNOP5678H,Bank of Baroda,Education,6.5%,Closed,300000,5,0,0,0,11/01/2019,0,0,N/A,780,Excellent,0,780,04/01/2024
+4,Priya Mehra,Female,31,Salary,Single,800000,789654000000,1,QWERT4321J,Canara Bank,Personal,9.5%,Defaulted,400000,3,200000,1,14000,01/07/2023,84000,1,No,620,Poor,-10,610,22/06/2024
+5,Vikram Patel,Male,45,Self-employed,Married,1500000,678905000000,2,ASDFG2345K,Union Bank of India,Home Loan,7.2%,Active,6500000,25,5800000,22,52000,26/02/2022,1240000,0,Yes,740,Good,12,752,20/09/2024
+6,Pooja Yadav,Female,28,Salary,Single,750000,112233000000,1,HJJKL9876B,Indian Bank,Car Loan,8.5%,Active,1000000,5,600000,3,20000,09/05/2021,820000,0,Yes,700,Good,8,708,23/08/2024
+7,Rajesh Gupta,Male,38,Self-employed,Married,1100000,223345000000,1,POIUY1234V,Central Bank of India,Education,6%,Active,350000,4,150000,2,7800,29/04/2020,174000,1,Yes,710,Fair,5,715,25/02/2024
+8,Deepika Rao,Female,33,Salary,Married,900000,334456000000,2,MNBVC5678D,Indian Overseas Bank,Personal,10%,Active,600000,2,200000,1,29500,23/08/2023,29500,3,No,650,Good,10,660,09/05/2024
+9,Neeraj Jain,Male,40,Salary,Married,1000000,445567000000,1,ZXCVB2341X,UCO Bank,Home Loan,7.8%,Active,4500000,15,3000000,10,38500,08/01/2021,1805000,0,Yes,730,Excellent,8,738,01/07/2024
+10,Meena Joshi,Female,27,Self-employed,Single,580000,556678000000,1,LKJHG8765C,Bank of Maharashtra,Car Loan,8.3%,Active,750000,6,400000,3,12600,04/03/2022,200600,1,Yes,660,Fair,5,665,02/03/2024
+11,Arjun Singh,Male,43,Salary,Married,1500000,667789000000,3,ABCDE5678P,State Bank of India,Education,6.2%,Closed,400000,4,0,0,0,22/04/2018,0,0,N/A,780,Excellent,0,780,18/04/2024
+12,Kavita Rani,Female,36,Self-employed,Married,650000,778899000000,2,FGHIJ1234Q,Punjab National Bank,Personal,9.8%,Active,500000,2,300000,1,24500,10/09/2023,49000,2,No,610,Poor,-5,605,20/09/2024
+13,Manish Verma,Male,48,Salary,Married,1400000,889900000000,2,LMNOP8765Z,Union Bank of India,Home Loan,7.1%,Active,7000000,20,5000000,15,56000,24/06/2020,3360000,0,Yes,740,Good,12,752,05/01/2024
+14,Seema Kapoor,Female,39,Self-employed,Single,800000,990011000000,1,QRSTU4321T,Canara Bank,Car Loan,8.4%,Active,600000,5,350000,2,17500,17/02/2023,52500,1,Yes,700,Fair,5,705,10/02/2024
+15,Rohan Mehta,Male,44,Salary,Married,1100000,101112000000,1, WXYZC5678L,Bank of Baroda,Education,6.7%,Active,350000,4,100000,1,8500,03/01/2022,221000,0,Yes,700,Good,5,705,11/07/2024
+16,Anjali Singh,Female,30,Salary,Single,950000,121314000000,2,UVWXY9876S,Indian Bank,Personal,10.2%,Active,500000,2,250000,1,28000,17/05/2023,84000,1,No,650,Good,8,658,16/02/2024
+17,Nikhil Tiwari,Male,37,Self-employed,Married,1200000,909877000000,2,JKLMN2345D,Indian Overseas Bank,Home Loan,7.9%,Active,5500000,18,4000000,12,48000,07/02/2022,2880000,0,Yes,735,Excellent,8,743,19/09/2024
+18,Shreya Desai,Female,25,Salary,Single,620000,654321000000,1,RSTUV3456F,Central Bank of India,Car Loan,8.8%,Active,900000,5,500000,3,14500,19/03/2023,14500,3,Yes,675,Fair,5,680,21/04/2024
+19,Alok Singh,Male,41,Salary,Married,1250000,765432000000,1,OPQRS8765A,UCO Bank,Home Loan,7.6%,Active,6000000,20,4000000,16,50000,06/06/2021,1000000,0,Yes,750,Good,12,762,01/08/2024
+20,Nisha Soni,Female,34,Self-employed,Married,850000,112346000000,1,ABCDE0987J,Bank of Maharashtra,Personal,9%,Active,400000,3,200000,1,22000,21/04/2023,66000,2,No,640,Fair,5,645,12/05/2024
